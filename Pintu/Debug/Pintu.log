@@ -1,0 +1,4 @@
+﻿  Pintu.cpp
+d:\study\visual studio project\pintu\pintu\pintu.cpp(277): warning C4101: “hdc”: 未引用的局部变量
+d:\study\visual studio project\pintu\pintu\pintu.cpp(278): warning C4101: “szHello”: 未引用的局部变量
+  Pintu.vcxproj -> D:\Study\Visual Studio Project\Pintu\Debug\Pintu.exe
